@@ -85,7 +85,7 @@ OctoAcme follows a structured yet flexible approach to project management that e
 - Follow-up on previous action items
 
 **Best Practices**:
-- Timebox: 45–75 minutes
+- Time-box: 45–75 minutes
 - Prioritize 2–3 top action items to avoid overload
 - Measure impact of improvements
 
@@ -150,10 +150,9 @@ OctoAcme follows a structured yet flexible approach to project management that e
 ## 💬 Communication Cadence
 
 ### Regular Meetings
-- **Daily Standups**: 15 min, delivery team — focus on progress, blockers, dependencies
+- **Team Standups**: Typically daily (15 min) or twice-weekly as agreed by delivery team — focus on progress, blockers, dependencies
 - **Weekly PM + PdM Sync**: Alignment on priorities, risks, and timelines
 - **Weekly Delivery Sync**: Show progress, updates, and flagged risks
-- **Twice-weekly Team Standups**: As agreed by delivery team
 - **Monthly Stakeholder Updates**: Progress, metrics, and upcoming milestones
 - **Sprint/Milestone Demos**: End of each sprint or milestone
 
